@@ -11,3 +11,7 @@ print("Learning Git step by step")
 print("My project is now connected to GitHub!")
 print("I am practising real-world developer workflows.")
 print("Learning Git collaboration step by step!")
+On branch master
+Your branch is up to date with 'origin/master'.
+print("I understand Git fetch and pull!")
+
