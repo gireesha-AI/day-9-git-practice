@@ -1,6 +1,5 @@
-print("Welcome to my Generative AI Developer training - Developer B!")
-
-name = input("Enter your name: ")
+print("Welcome to Generative AI Developer Training - Developer A!")
+print("Welcome to Generative AI Developer Training - Developer B!")name = input("Enter your name: ")
 
 print("Hello", name)
 print("I am learning Python, Git and Generative AI.")
