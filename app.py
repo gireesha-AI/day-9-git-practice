@@ -1,4 +1,4 @@
-print("Welcome to my Generative AI journey!")
+print("Welcome to my Generative AI Developer training - Developer B!")
 
 name = input("Enter your name: ")
 
